@@ -1,0 +1,5 @@
+opencv-python
+pandas
+openpyxl
+requests
+google-generativeai

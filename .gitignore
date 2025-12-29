@@ -1,0 +1,9 @@
+# Security: NEVER upload this
+.env
+
+# Python Cache (Junk files seen in your src folder)
+__pycache__/
+*.pyc
+
+# Optional: Ignore generated reports if you don't want them on GitHub
+output/
